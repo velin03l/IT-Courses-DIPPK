@@ -1,0 +1,11 @@
+D:\My Documents\ppmgkk\IT-кариера\модул 2\Изпит 26.04.2020\задача 1\bin\Debug\netcoreapp3.1\задача 1.exe
+D:\My Documents\ppmgkk\IT-кариера\модул 2\Изпит 26.04.2020\задача 1\bin\Debug\netcoreapp3.1\задача 1.deps.json
+D:\My Documents\ppmgkk\IT-кариера\модул 2\Изпит 26.04.2020\задача 1\bin\Debug\netcoreapp3.1\задача 1.runtimeconfig.json
+D:\My Documents\ppmgkk\IT-кариера\модул 2\Изпит 26.04.2020\задача 1\bin\Debug\netcoreapp3.1\задача 1.runtimeconfig.dev.json
+D:\My Documents\ppmgkk\IT-кариера\модул 2\Изпит 26.04.2020\задача 1\bin\Debug\netcoreapp3.1\задача 1.dll
+D:\My Documents\ppmgkk\IT-кариера\модул 2\Изпит 26.04.2020\задача 1\bin\Debug\netcoreapp3.1\задача 1.pdb
+D:\My Documents\ppmgkk\IT-кариера\модул 2\Изпит 26.04.2020\задача 1\obj\Debug\netcoreapp3.1\задача 1.csprojAssemblyReference.cache
+D:\My Documents\ppmgkk\IT-кариера\модул 2\Изпит 26.04.2020\задача 1\obj\Debug\netcoreapp3.1\задача 1.AssemblyInfoInputs.cache
+D:\My Documents\ppmgkk\IT-кариера\модул 2\Изпит 26.04.2020\задача 1\obj\Debug\netcoreapp3.1\задача 1.AssemblyInfo.cs
+D:\My Documents\ppmgkk\IT-кариера\модул 2\Изпит 26.04.2020\задача 1\obj\Debug\netcoreapp3.1\задача 1.dll
+D:\My Documents\ppmgkk\IT-кариера\модул 2\Изпит 26.04.2020\задача 1\obj\Debug\netcoreapp3.1\задача 1.pdb

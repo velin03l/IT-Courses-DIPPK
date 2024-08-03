@@ -1,0 +1,11 @@
+D:\My Documents\ppmgkk\IT-кариера\модул 1\Изпитна задача №1 от 26.03.2016\Изпитна задача №1 от 26.03.2016\bin\Debug\netcoreapp3.1\Изпитна задача №1 от 26.03.2016.exe
+D:\My Documents\ppmgkk\IT-кариера\модул 1\Изпитна задача №1 от 26.03.2016\Изпитна задача №1 от 26.03.2016\bin\Debug\netcoreapp3.1\Изпитна задача №1 от 26.03.2016.deps.json
+D:\My Documents\ppmgkk\IT-кариера\модул 1\Изпитна задача №1 от 26.03.2016\Изпитна задача №1 от 26.03.2016\bin\Debug\netcoreapp3.1\Изпитна задача №1 от 26.03.2016.runtimeconfig.json
+D:\My Documents\ppmgkk\IT-кариера\модул 1\Изпитна задача №1 от 26.03.2016\Изпитна задача №1 от 26.03.2016\bin\Debug\netcoreapp3.1\Изпитна задача №1 от 26.03.2016.runtimeconfig.dev.json
+D:\My Documents\ppmgkk\IT-кариера\модул 1\Изпитна задача №1 от 26.03.2016\Изпитна задача №1 от 26.03.2016\bin\Debug\netcoreapp3.1\Изпитна задача №1 от 26.03.2016.dll
+D:\My Documents\ppmgkk\IT-кариера\модул 1\Изпитна задача №1 от 26.03.2016\Изпитна задача №1 от 26.03.2016\bin\Debug\netcoreapp3.1\Изпитна задача №1 от 26.03.2016.pdb
+D:\My Documents\ppmgkk\IT-кариера\модул 1\Изпитна задача №1 от 26.03.2016\Изпитна задача №1 от 26.03.2016\obj\Debug\netcoreapp3.1\Изпитна задача №1 от 26.03.2016.csprojAssemblyReference.cache
+D:\My Documents\ppmgkk\IT-кариера\модул 1\Изпитна задача №1 от 26.03.2016\Изпитна задача №1 от 26.03.2016\obj\Debug\netcoreapp3.1\Изпитна задача №1 от 26.03.2016.AssemblyInfoInputs.cache
+D:\My Documents\ppmgkk\IT-кариера\модул 1\Изпитна задача №1 от 26.03.2016\Изпитна задача №1 от 26.03.2016\obj\Debug\netcoreapp3.1\Изпитна задача №1 от 26.03.2016.AssemblyInfo.cs
+D:\My Documents\ppmgkk\IT-кариера\модул 1\Изпитна задача №1 от 26.03.2016\Изпитна задача №1 от 26.03.2016\obj\Debug\netcoreapp3.1\Изпитна задача №1 от 26.03.2016.dll
+D:\My Documents\ppmgkk\IT-кариера\модул 1\Изпитна задача №1 от 26.03.2016\Изпитна задача №1 от 26.03.2016\obj\Debug\netcoreapp3.1\Изпитна задача №1 от 26.03.2016.pdb

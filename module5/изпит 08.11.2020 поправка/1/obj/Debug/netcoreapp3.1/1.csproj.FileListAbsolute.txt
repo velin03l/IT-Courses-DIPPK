@@ -1,0 +1,13 @@
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\bin\Debug\netcoreapp3.1\1.exe
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\bin\Debug\netcoreapp3.1\1.deps.json
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.json
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.dev.json
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\bin\Debug\netcoreapp3.1\1.dll
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\bin\Debug\netcoreapp3.1\1.pdb
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\obj\Debug\netcoreapp3.1\1.csprojAssemblyReference.cache
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\obj\Debug\netcoreapp3.1\1.dll
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\obj\Debug\netcoreapp3.1\1.pdb
+D:\My Documents\ppmgkk\IT-кариера\модул 5\изпит 08.112020 поправка\изпит 08.11.2020 поправка\1\obj\Debug\netcoreapp3.1\1.genruntimeconfig.cache

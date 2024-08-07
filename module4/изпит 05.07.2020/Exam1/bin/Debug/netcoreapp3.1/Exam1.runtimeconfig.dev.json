@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Velin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Velin\\.nuget\\packages"
+    ]
+  }
+}

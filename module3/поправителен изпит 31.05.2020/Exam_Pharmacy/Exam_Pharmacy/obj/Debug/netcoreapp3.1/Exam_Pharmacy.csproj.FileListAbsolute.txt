@@ -1,0 +1,11 @@
+D:\My Documents\ppmgkk\IT-кариера\модул 3\поправителен изпит 31.05.2020\Exam_Pharmacy\Exam_Pharmacy\bin\Debug\netcoreapp3.1\Exam_Pharmacy.exe
+D:\My Documents\ppmgkk\IT-кариера\модул 3\поправителен изпит 31.05.2020\Exam_Pharmacy\Exam_Pharmacy\bin\Debug\netcoreapp3.1\Exam_Pharmacy.deps.json
+D:\My Documents\ppmgkk\IT-кариера\модул 3\поправителен изпит 31.05.2020\Exam_Pharmacy\Exam_Pharmacy\bin\Debug\netcoreapp3.1\Exam_Pharmacy.runtimeconfig.json
+D:\My Documents\ppmgkk\IT-кариера\модул 3\поправителен изпит 31.05.2020\Exam_Pharmacy\Exam_Pharmacy\bin\Debug\netcoreapp3.1\Exam_Pharmacy.runtimeconfig.dev.json
+D:\My Documents\ppmgkk\IT-кариера\модул 3\поправителен изпит 31.05.2020\Exam_Pharmacy\Exam_Pharmacy\bin\Debug\netcoreapp3.1\Exam_Pharmacy.dll
+D:\My Documents\ppmgkk\IT-кариера\модул 3\поправителен изпит 31.05.2020\Exam_Pharmacy\Exam_Pharmacy\bin\Debug\netcoreapp3.1\Exam_Pharmacy.pdb
+D:\My Documents\ppmgkk\IT-кариера\модул 3\поправителен изпит 31.05.2020\Exam_Pharmacy\Exam_Pharmacy\obj\Debug\netcoreapp3.1\Exam_Pharmacy.csprojAssemblyReference.cache
+D:\My Documents\ppmgkk\IT-кариера\модул 3\поправителен изпит 31.05.2020\Exam_Pharmacy\Exam_Pharmacy\obj\Debug\netcoreapp3.1\Exam_Pharmacy.AssemblyInfoInputs.cache
+D:\My Documents\ppmgkk\IT-кариера\модул 3\поправителен изпит 31.05.2020\Exam_Pharmacy\Exam_Pharmacy\obj\Debug\netcoreapp3.1\Exam_Pharmacy.AssemblyInfo.cs
+D:\My Documents\ppmgkk\IT-кариера\модул 3\поправителен изпит 31.05.2020\Exam_Pharmacy\Exam_Pharmacy\obj\Debug\netcoreapp3.1\Exam_Pharmacy.dll
+D:\My Documents\ppmgkk\IT-кариера\модул 3\поправителен изпит 31.05.2020\Exam_Pharmacy\Exam_Pharmacy\obj\Debug\netcoreapp3.1\Exam_Pharmacy.pdb

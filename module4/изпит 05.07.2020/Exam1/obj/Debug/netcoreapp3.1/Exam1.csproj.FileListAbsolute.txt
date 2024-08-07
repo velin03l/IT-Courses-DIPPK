@@ -1,0 +1,22 @@
+C:\Users\Velin\source\repos\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.exe
+C:\Users\Velin\source\repos\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.deps.json
+C:\Users\Velin\source\repos\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.runtimeconfig.json
+C:\Users\Velin\source\repos\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.runtimeconfig.dev.json
+C:\Users\Velin\source\repos\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.dll
+C:\Users\Velin\source\repos\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.pdb
+C:\Users\Velin\source\repos\изпит 05.07.2020\Exam1\obj\Debug\netcoreapp3.1\Exam1.csprojAssemblyReference.cache
+C:\Users\Velin\source\repos\изпит 05.07.2020\Exam1\obj\Debug\netcoreapp3.1\Exam1.AssemblyInfoInputs.cache
+C:\Users\Velin\source\repos\изпит 05.07.2020\Exam1\obj\Debug\netcoreapp3.1\Exam1.AssemblyInfo.cs
+C:\Users\Velin\source\repos\изпит 05.07.2020\Exam1\obj\Debug\netcoreapp3.1\Exam1.dll
+C:\Users\Velin\source\repos\изпит 05.07.2020\Exam1\obj\Debug\netcoreapp3.1\Exam1.pdb
+D:\My Documents\ppmgkk\IT-кариера\модул 4\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.exe
+D:\My Documents\ppmgkk\IT-кариера\модул 4\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.deps.json
+D:\My Documents\ppmgkk\IT-кариера\модул 4\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.runtimeconfig.json
+D:\My Documents\ppmgkk\IT-кариера\модул 4\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.runtimeconfig.dev.json
+D:\My Documents\ppmgkk\IT-кариера\модул 4\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.dll
+D:\My Documents\ppmgkk\IT-кариера\модул 4\изпит 05.07.2020\Exam1\bin\Debug\netcoreapp3.1\Exam1.pdb
+D:\My Documents\ppmgkk\IT-кариера\модул 4\изпит 05.07.2020\Exam1\obj\Debug\netcoreapp3.1\Exam1.csprojAssemblyReference.cache
+D:\My Documents\ppmgkk\IT-кариера\модул 4\изпит 05.07.2020\Exam1\obj\Debug\netcoreapp3.1\Exam1.AssemblyInfoInputs.cache
+D:\My Documents\ppmgkk\IT-кариера\модул 4\изпит 05.07.2020\Exam1\obj\Debug\netcoreapp3.1\Exam1.AssemblyInfo.cs
+D:\My Documents\ppmgkk\IT-кариера\модул 4\изпит 05.07.2020\Exam1\obj\Debug\netcoreapp3.1\Exam1.dll
+D:\My Documents\ppmgkk\IT-кариера\модул 4\изпит 05.07.2020\Exam1\obj\Debug\netcoreapp3.1\Exam1.pdb

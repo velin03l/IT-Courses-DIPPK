@@ -1,3 +1,0 @@
-D:\My Documents\ppmgkk\IT-кариера\модул 3\изпит 17.05.2020\изпит 17.05.2020\ITCareer_OOP_Exam_1\obj\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.csprojAssemblyReference.cache
-D:\My Documents\ppmgkk\IT-кариера\модул 3\изпит 17.05.2020\изпит 17.05.2020\ITCareer_OOP_Exam_1\obj\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.AssemblyInfoInputs.cache
-D:\My Documents\ppmgkk\IT-кариера\модул 3\изпит 17.05.2020\изпит 17.05.2020\ITCareer_OOP_Exam_1\obj\Debug\netcoreapp3.1\ITCareer_OOP_Exam_1.AssemblyInfo.cs

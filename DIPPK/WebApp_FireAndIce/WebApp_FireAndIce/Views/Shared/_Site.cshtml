@@ -1,0 +1,74 @@
+﻿@using WebApp_FireAndIce.Models;
+@using WebApp_FireAndIce.ExtentionMethods;
+@{
+    Administrator loggedUser1 = this.ViewContext.HttpContext.Session.GetObject<Administrator>("loggedUser");
+    /*Tech loggedUser2 = this.ViewContext.HttpContext.Session.GetObject<Tech>("loggedUser");
+    Customer loggedUser3 = this.ViewContext.HttpContext.Session.GetObject<Customer>("loggedUser");*/
+}
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/styleLogin.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/fontawesome-free-6.1.1-web/css/all.css" rel="stylesheet">
+
+    <title>@ViewData["title"]</title>
+</head>
+<body>
+    <div class="bg"></div>
+    <div class="bg bg2"></div>
+    <div class="bg bg3"></div>
+    <div id="page-container">
+        <div id="content-wrap">
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <a class="navbar-brand mr-2" href="/Home/Index">Система за управление на сервизно обслужване на климатици</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+                        aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-link mr-2" href="/Home/Index">Начало<span class="sr-only">(current)</span></a>
+                        @if (loggedUser1 != null)
+                        {
+                            <a class="nav-link mr-2" href="/Techs/Index">Техници</a>
+                            <a class="nav-link mr-2" href="/Requests/Index">Заявки</a>
+                            <a class="nav-link mr-2" href="/Customers/Index">Клиенти</a>
+                            <a class="nav-link mr-2" href="/Home/Logout">Изход</a>
+                        }
+                        /*else if (loggedUser2 != null)
+                        {
+                            <a class="nav-link mr-2" href="/Requests/Index">Заявки</a>
+                            <a class="nav-link mr-2" href="/Customers/Index">Клиенти</a>
+                            <a class="nav-link mr-2" href="/Home/Logout">Изход</a>
+                        }
+                        else if (loggedUser3 != null)
+                        {
+                            <a class="nav-link mr-2" href="/Requests/Index">Заявки</a>
+                            <a class="nav-link mr-2" href="/Home/Logout">Изход</a>
+                        }*/
+                        else
+                        {
+                            <a class="nav-link mr-2" href="/Home/Login">Вход</a>
+                            <a class="nav-link mr-2" href="/Home/Signup">Регистриране</a>
+                        }
+                    </div>
+                </div>
+            </nav>
+            <div class="container mt-5 mb-5">
+                @RenderBody()
+            </div>
+        </div>
+        <footer class="card-footer align-content-center">
+            <span class="footer-text">Огън и лед</span>
+        </footer>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

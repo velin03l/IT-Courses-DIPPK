@@ -1,0 +1,76 @@
+﻿@model WebApp_FireAndIce.ViewModels.Customers.IndexVM
+@using WebApp_FireAndIce.Models
+@using WebApp_FireAndIce.ExtentionMethods
+
+@{
+    this.Layout = "/Views/Shared/_Site.cshtml";
+    ViewData["title"] = "Customers";
+    Customer loggedUser = this.ViewContext.HttpContext.Session.GetObject<Customer>("loggedUser");
+}
+
+<div class="grid">
+    @if (loggedUser != null)
+    {
+        <div class="content-card">
+            <div class="row">
+                <div class="col-4 col-sm-6">
+                    <h2 class="float-left">Клиенти</h2>
+                </div>
+                <div class="col-4 col-sm-6">
+                    <a class="btn btn-primary btn-lg mb-4 float-right" href="/Requests/Create">Добави заявка</a>
+                </div>
+            </div>
+            <table class="table table-responsive table-striped justify-content-center">
+                <thead>
+                    <tr>
+                        <th scope="col"></th>
+                        <th scope="col"></th>
+                        <th scope="col">Име</th>
+                        <th scope="col"></th>
+                        <th scope="col"></th>
+                        <th scope="col"></th>
+                        <th scope="col"></th>
+                        <th scope="col"></th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (Request item in Model.Items)
+                    {
+                        <tr>
+                            <th scope="col">
+                                <a href="/Clients/Edit?id=@item.Id"><i class="fa-solid fa-pen-to-square"></i></a>
+                            </th>
+                            <th scope="col">
+                                <a href="/Clients/Delete?id=@item.Id"
+                                   onclick="return confirm('Delete Record?');"><i class="fa-solid fa-trash-can"></i></a>
+                            </th>
+                            <td>@item.Name</td>
+                            <td>@item.LastName</td>
+                            <td>@item.PhoneNumber</td>
+                            <td>@item.Email</td>
+                            @if (item.IsAdult)
+                            {
+                                <td>Да</td>
+                            }
+                            else
+                            {
+                                <td>Не</td>
+
+                            }
+                            <td>
+                                <a asp-action="Details" asp-route-id="@item.Id">Виж детайли</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div class="content">
+            <p>Вие нямате достъп до това действие!</p>
+        </div>
+    }
+</div>
